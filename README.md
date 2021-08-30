@@ -1,6 +1,6 @@
 1-In this Python project firstly,I get connected to MySql database and imported the three .csv files. 
 
-2-On python I wrote queries that has the functionalities below:
+2-With python I wrote queries that has the functionalities below:
 
 -Get sales history
 -Add new sales history record
