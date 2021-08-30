@@ -1,4 +1,4 @@
-1-In this Python project firstly,I connected to MySql database and imported the three .csv files. 
+1-In this Python project firstly,I get connected to MySql database and imported the three .csv files. 
 
 2-On python I wrote queries that has the functionalities below:
 
